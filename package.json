@@ -1,6 +1,6 @@
 {
   "homepage": "https://xuanaozh.github.io/beefpedia",
-  "name": "example1",
+  "name": "beefpedia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
